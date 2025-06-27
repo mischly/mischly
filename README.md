@@ -1,8 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=200&color=FFFFFF&background=F1F1F100&center=true&vCenter=true&width=846&height=55&lines=Games+are+always+fun+in++the+eyes+of+a+child%2C;but+to+an+adult%2C;they+are+but+;one+among+many+ways+of+solving+problem.)](https://git.io/typing-svg)
 
 <div style="width: 100%; height: auto; display: flex; justify-content: center;">
-  <img src="assets/ganyu.gif" alt="gif" style="width: 100vw; max-width: none;" />
+  <img src="assets/ganyu.gif" alt="gif" style="width: 100vw; max-width: none;" /> 
 </div>
+
 <!--
 **mischly/mischly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
