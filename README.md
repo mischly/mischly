@@ -6,7 +6,7 @@
 
 <div>
   <div align="center">
-    <img src="assets/rin.gif" align="right" width="250px">
+    <img src="assets/rin.gif" align="right" width="350px">
   </div>
   
   <br>
