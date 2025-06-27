@@ -10,7 +10,7 @@
   <br><br>
   <div style="margin-top: 20px;">
     <a href="https://open.spotify.com/user/henceforth">
-      <img src="https://eq-effect-mischly.vercel.app/api/spotify/?background_color=0D1117" alt="Spotify Now Playing" width="430px" />
+      <img src="https://eq-effect-mischly.vercel.app/api/spotify/?background_color=0D1117&border_color=666666" alt="Spotify Now Playing" width="430px" />
     </a>
   </div>
 </div>
