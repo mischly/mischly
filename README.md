@@ -9,7 +9,7 @@
   
   <br><br>
   <div style="margin-top: 20px;">
-    <a href="https://open.spotify.com/user/henceforth">
+    <a href="https://open.spotify.com/user/31ubodapeg4lmlopt7emw3xzt374">
       <img src="https://eq-effect-mischly.vercel.app/api/spotify/?background_color=0D1117&border_color=666666" alt="Spotify Now Playing" width="430px" />
     </a>
   </div>
