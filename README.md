@@ -1,5 +1,3 @@
-<!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=200&color=FFFFFF&background=F1F1F100&center=true&vCenter=true&width=846&height=55&lines=Games+are+always+fun+in++the+eyes+of+a+child%2C;but+to+an+adult%2C;they+are+but+;one+among+many+ways+of+solving+problem.)](https://git.io/typing-svg) -->
-
 <!-- <div style="width: 100%; height: auto; display: flex; justify-content: center;">
   <img src="assets/ganyu.gif" alt="gif" style="width: 100vw; max-width: none;" /> 
 </div> -->
@@ -12,10 +10,22 @@
   <br><br>
   <div style="margin-top: 20px;">
     <a href="https://open.spotify.com/user/henceforth">
-      <img src="https://eq-effect-mischly.vercel.app/api/spotify" alt="Spotify Now Playing" width="430px" />
+      <img src="https://eq-effect-mischly.vercel.app/api/spotify/?background_color=0D1117&border_color=e9e9e9" alt="Spotify Now Playing" width="430px" />
     </a>
   </div>
 </div>
+
+
+<!-- <br><br>
+<div>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=200&color=FFFFFF&background=F1F1F100&center=true&vCenter=true&width=846&height=55&lines=Hi!+%F0%9F%91%8B+" />
+  </a>
+</div> -->
+  
+<!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=200&color=FFFFFF&background=F1F1F100&center=true&vCenter=true&width=846&height=55&lines=Hi!+%F0%9F%91%8B+)](https://git.io/typing-svg)
+  
+
 
 <!--
 **mischly/mischly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
