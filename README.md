@@ -6,10 +6,10 @@
 
 <div>
   <div align="center">
-    <img src="assets/rin.gif" align="right" width="400px">
+    <img src="assets/rin.gif" align="right" width="370px">
   </div>
   
-  <br>
+  <br><br>
   <div style="margin-top: 20px;">
     <a href="https://open.spotify.com/user/henceforth">
       <img src="https://eq-effect-mischly.vercel.app/api/spotify" alt="Spotify Now Playing" />
